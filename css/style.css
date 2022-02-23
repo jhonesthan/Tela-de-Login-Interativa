@@ -162,6 +162,9 @@ body{
     margin: 8px;
 
 }
+.fa-user, .fa-envelope, .fa-key {
+    margin: 5px;
+}
 .icon-modify {
     color: #7f8c8d;
     padding: 0 5px;
