@@ -450,6 +450,7 @@ body{
         }
     }
 }
+
 @media screen and (max-width: 920px) {
     .form {
         width: 75%;
@@ -457,12 +458,21 @@ body{
     .title-primary, .title-second {
         margin: 7px;
     }
+    .btn {
+        font-size: 12px;
+        width: 160px; 
+        margin: 10px;
+    }
+    .container {
+        height: 100vh;
+    }
 }
 
 @media screen and (max-width: 740px) {
     .form {
         width: 85%;
     }
+    
 }
 @media screen and (max-width: 550px) {
     .form {
