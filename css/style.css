@@ -469,6 +469,11 @@ body{
     .form {
         width: 85%;
     }
+    .item-social-media  {
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+    }
     
 }
 @media screen and (max-width: 550px) {
