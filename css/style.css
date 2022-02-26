@@ -463,11 +463,6 @@ body{
         width: 160px; 
         margin: 10px;
     }
-    .container {
-        height: 100vh;
-    }
-    .content {
-        height: 100%;
 }
 
 @media screen and (max-width: 740px) {
