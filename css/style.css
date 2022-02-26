@@ -459,9 +459,10 @@ body{
         margin: 7px;
     }
     .btn {
-        font-size: 12px;
-        width: 160px; 
-        margin: 10px;
+        font-size: 15px;
+        width: 150px; 
+        margin: 5px;
+        padding: 10px 0;
     }
 }
 
@@ -473,7 +474,6 @@ body{
         width: 45px;
         height: 45px;
         line-height: 45px;
-        font-size: 20px;
     }
     
 }
